@@ -1,0 +1,1 @@
+Sensor ultrasónico de distancia.
